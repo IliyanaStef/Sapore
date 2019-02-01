@@ -1,0 +1,84 @@
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 20px; 
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    margin-bottom: 60px;
+    line-height: 1.5;
+}
+
+.navbar {
+    background-color: black !important;
+    padding: 0px;
+ }
+ 
+.nav-item {
+    font-size: 18px;
+    font-weight: bold;
+    color: white !important;
+    padding-bottom: 0px;
+}
+ #logo {
+     width: 220px;
+     padding-left: 20px;
+ }
+
+.quote {
+    font-size: 25px;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.banner {
+    padding: 0px;
+    object-fit: fill;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%; 
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    font-size: 12px;
+  }
+
+  .reservations {
+      font-size: 16px;
+      font-style: italic;
+  }
+
+  .social {
+      width: 40px;
+      margin-right: 10px;
+      margin-left: 10px;
+      margin-bottom: 20px;
+  }
+
+  figure {
+      width: 30%;
+  }
+
+  .pictures {
+      height: 300px;
+      margin-bottom: 50px !important;
+  }
+
+ 
