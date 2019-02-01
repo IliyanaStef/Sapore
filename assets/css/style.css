@@ -1,11 +1,12 @@
-
 html {
     position: relative;
     min-height: 100%;
+    min-width: 100%;
 }
 
 body {
     min-height: 100%;
+    min-width: 100%;
     margin: 0;
     padding: 0;
     font-size: 20px; 
@@ -40,8 +41,6 @@ body {
      width: 220px;
  }
 
- img {max-width:100%}
-
 .quote {
     font-size: 25px;
     font-style: italic;
@@ -71,25 +70,26 @@ footer {
     font-size: 12px;
   }
 
-  .reservations {
-      font-size: 16px;
-      font-style: italic;
-  }
+.reservations {
+    font-size: 16px;
+    font-style: italic;
+}
 
-  .social {
-      width: 40px;
-      margin-right: 10px;
-      margin-left: 10px;
-      margin-bottom: 20px;
-  }
+.social {
+    width: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
 
-  figure {
-      width: 30%;
-  }
 
-  .pictures {
-      height: 300px;
-      margin-bottom: 50px !important;
-  }
+.row  {
+padding-right: 0px;
+margin-right: 0px;
+padding-left: 0px;
+margin-left: 0px;
+}
 
- 
+figure {
+    padding-top: 10px;
+}
