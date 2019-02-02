@@ -64,7 +64,6 @@ footer {
     height: 60px;
     line-height: 60px;
     background-color: black;
-    font-weight: bold;
     color: white;
     font-size: 12px;
   }
@@ -126,6 +125,4 @@ p {
       margin-bottom: 20px;
   }
 
-  .container-fluid  {
-
-  }
+  
