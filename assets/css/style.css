@@ -82,7 +82,12 @@ footer {
 }
 
 
-.row  {
+.col-md-12 {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.row {
     padding-right: 0px;
     margin-right: 0px;
     padding-left: 0px;
@@ -90,7 +95,10 @@ footer {
 }
 
 .pictures {
-    padding-top: 10px;
+   
+    padding-bottom: 0px;
+    margin-right: 0;
+    padding-right: 0px;
 }
 
 p {
@@ -112,4 +120,12 @@ p {
     body { 
         padding-top: 50px; 
     }
+  }
+
+  #gallery {
+      margin-bottom: 20px;
+  }
+
+  .container-fluid  {
+
   }
