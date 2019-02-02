@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 20px; 
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: black;
     margin-bottom: 60px;
     line-height: 1.5;
@@ -24,7 +24,6 @@ body {
  
 .nav-item {
     font-size: 18px;
-    font-weight: bold;
     color: white !important;
     padding-bottom: 0px;
 }
@@ -73,13 +72,13 @@ footer {
 .reservations {
     font-size: 16px;
     font-style: italic;
+    margin-bottom: 15px;
 }
 
 .social {
-    width: 40px;
-    margin-right: 10px;
-    margin-left: 10px;
+    width: 55px;
     margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 
@@ -97,3 +96,14 @@ margin-left: 0px;
 p {
     margin-bottom: 0px;
 }
+
+.delivery {
+  padding: 10px;
+  width: 80px;
+}
+
+@media screen and (max-width: 320px) {
+    #logo {
+      width: 150px;
+    }
+  }
