@@ -51,6 +51,11 @@ h1 {
     object-fit: fill;
 }
 
+.story {
+    width: 80%;
+    display: inline-block;
+}
+
 .reservations {
     font-size: 16px;
     font-style: italic;
